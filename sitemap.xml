@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://vufuzi.se:1313/</loc>
     <lastmod>2015-06-22T23:54:04+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/kontakt/</loc>
+    <loc>http://vufuzi.se:1313/kontakt/</loc>
     <lastmod>2015-06-22T23:54:04+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/priser/</loc>
+    <loc>http://vufuzi.se:1313/priser/</loc>
     <lastmod>2015-06-22T23:54:00+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tjanster/</loc>
+    <loc>http://vufuzi.se:1313/tjanster/</loc>
     <lastmod>2015-06-22T23:53:54+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/start/</loc>
+    <loc>http://vufuzi.se:1313/start/</loc>
     <lastmod>2015-06-22T23:51:31+02:00</lastmod>
   </url>
   
